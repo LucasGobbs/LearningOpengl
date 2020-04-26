@@ -1,0 +1,3 @@
+/home/gobbs/Área de Trabalho/opengl/new_opengl_learn/build/CMakeFiles/rebuild_cache.dir
+/home/gobbs/Área de Trabalho/opengl/new_opengl_learn/build/CMakeFiles/hellot.dir
+/home/gobbs/Área de Trabalho/opengl/new_opengl_learn/build/CMakeFiles/edit_cache.dir
